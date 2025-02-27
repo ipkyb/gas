@@ -2,8 +2,9 @@ package internal
 
 import (
 	"fmt"
-	cmdline_handler "gas/internal/cmdline-handler"
 	"os"
+
+	cmdline_handler "github.com/ipkyb/gas/internal/cmdline-handler"
 )
 
 var CmdlineBuild = Cmdline{

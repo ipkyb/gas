@@ -1,9 +1,10 @@
 package impl
 
 import (
-	"gas/api"
 	"sync"
 	"time"
+
+	"github.com/ipkyb/gas/api"
 )
 
 var _ api.TempsInterface = &TempsInterface{}

@@ -1,6 +1,6 @@
 package internal
 
-import "gas/api"
+import "github.com/ipkyb/gas/api"
 
 type Config struct {
 	Verbose    bool             `json:"verbose"`

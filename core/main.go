@@ -1,6 +1,6 @@
 package main
 
-import "gas/internal"
+import "github.com/ipkyb/gas/internal"
 
 var handles = []internal.Cmdline{
 	internal.CmdlineRun,

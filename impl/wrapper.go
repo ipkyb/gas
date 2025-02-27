@@ -1,7 +1,7 @@
 package impl
 
 import (
-	"gas/api"
+	"github.com/ipkyb/gas/api"
 
 	"github.com/gofiber/fiber/v2"
 )

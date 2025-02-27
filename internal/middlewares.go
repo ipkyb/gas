@@ -2,9 +2,10 @@ package internal
 
 import (
 	"fmt"
-	"gas/api"
 	"runtime"
 	"runtime/debug"
+
+	"github.com/ipkyb/gas/api"
 )
 
 func HandlerRecovery() api.Handler {
