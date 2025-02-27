@@ -1,0 +1,15 @@
+*
+
+!api
+!api/**
+!core
+!core/**
+!impl
+!impl/**
+!internal
+!internal/**
+
+!.gitignore
+!go.mod
+!go.sum
+!main.go
